@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/imeldasidai/NetBeansProjects/CS_Project/src/NotificationSystem/Notification.java</file>
+            <file>file:/Users/imeldasidai/NetBeansProjects/CS_Project/src/NotificationSystem/EmailSender.java</file>
+            <file>file:/Users/imeldasidai/NetBeansProjects/CS_Project/src/NotificationSystem/Event.java</file>
+            <file>file:/Users/imeldasidai/NetBeansProjects/CS_Project/src/NotificationSystem/NotificationService.java</file>
+            <file>file:/Users/imeldasidai/NetBeansProjects/CS_Project/src/NotificationSystem/ReminderPreferences.java</file>
+            <file>file:/Users/imeldasidai/NetBeansProjects/CS_Project/src/NotificationSystem/PublisherService.java</file>
+            <file>file:/Users/imeldasidai/NetBeansProjects/CS_Project/src/serverside/SessionManager.java</file>
+            <file>file:/Users/imeldasidai/NetBeansProjects/CS_Project/src/serverside/DatabaseOperations.java</file>
+        </group>
+    </open-files>
+</project-private>
